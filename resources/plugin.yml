@@ -1,0 +1,8 @@
+name: SkyBridge
+main: it.skybridge.nxtor2.SkyBridge
+version: 1.0
+author: Nxtor2
+description: A thebridge plugin for SkyClouds
+commands:
+    skybridge:
+        default: true
